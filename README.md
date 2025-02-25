@@ -1,6 +1,10 @@
-![my banner](banner-miryamvalera-github.png)
 # Hola, soy Jorge Bernal ¡Encantado de conocerte!👋✨
  <h3>QA Engineer apasionado por el testing the software y eliminacion de bugs.</h3>
+
+![MasterHead](https://techbullion.com/wp-content/uploads/2023/08/s-t.png)
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTY0MGVwN3BvMTkzZG91Z2dudnowdmNzd3hwczgxMml0emN5enBubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-alfonso-bernal-burceaga/)
 
